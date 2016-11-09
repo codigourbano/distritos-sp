@@ -8,5 +8,5 @@ Fonte: [Secretaria Municipal do Desenvolvimento Urbano](http://www.prefeitura.sp
 
 Escolha um formato:
 
-* [distritos.csv](raw/master/dados/distritos-sp.csv)
-* [distritos.geojson](raw/master/dados/distritos-sp.geojson) [(ver mapa)](dados/distritos-sp.geojson)
+* [distritos.csv](https://github.com/codigourbano/distritos-sp/raw/master/dados/distritos-sp.csv)
+* [distritos.geojson](https://github.com/codigourbano/distritos-sp/raw/master/dados/distritos-sp.geojson) 
