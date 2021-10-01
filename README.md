@@ -1,12 +1,18 @@
-# Distritos da cidade de São Paulo
+# Distritos do município de São Paulo
 
 ![Mapa de ocorrências](preview.png)
 
-Fonte: [Secretaria Municipal do Desenvolvimento Urbano](http://www.prefeitura.sp.gov.br/cidade/secretarias/desenvolvimento_urbano/dados_estatisticos/index.php?p=160798)
+Fonte: [Geosampa - Secretaria Municipal do Desenvolvimento Urbano](http://geosampa.prefeitura.sp.gov.br)
 
-# Baixar os dados
+# Downloads
 
-Escolha um formato:
+Os arquivos abaixo foram gerados a partir do [Geopackage original do Geosampa](http://download.geosampa.prefeitura.sp.gov.br/PaginasPublicas/downloadArquivo.aspx?orig=DownloadCamadas&arq=01_Limites%20Administrativos%5C%5CDistrito%5C%5CGPKG_ZIP%5C%5CSIRGAS_GPKG_distrito&arqTipo=GPKG_ZIP). Este arquivo usa usa SIRGAS como sistema de referência, sendo os arquivos abaixo convertidos a formatos mais comuns:
 
-* [distritos.csv](https://github.com/codigourbano/distritos-sp/raw/master/dados/distritos-sp.csv)
-* [distritos.geojson](https://github.com/codigourbano/distritos-sp/raw/master/dados/distritos-sp.geojson) 
+- [distritos.csv](distritos-sp.csv)
+- [distritos.geojson](distritos-sp.geojson)
+
+# Sobre
+
+Este repositório é mantido por [Vitor George](https://github.com/vgeorge) e [contribuidores](https://github.com/codigourbano/distritos-sp/graphs/contributors). 
+
+Em caso de dúvidas e sugestões, por favor, abra um ticket [aqui](https://github.com/codigourbano/distritos-sp/issues).
